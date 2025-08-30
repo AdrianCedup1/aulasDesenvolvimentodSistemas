@@ -1,0 +1,7 @@
+1 - cd "C:\Users\Lost\Documents\Api - Escola"
+
+2 - python -m uvicorn alunosapi:app --reload
+
+3 - http://127.0.0.1:8000 
+
+4 - http://127.0.0.1:8000/docs
